@@ -16,9 +16,8 @@ Use your old phone as an always on display that shows the time, date and live we
 
 ## Screenshots
 
-![Login Screen](/assets/screenshots/1.jpg?raw=true "Login Scren")
-
-![Home Screen](/assets/screenshots/2.jpg?raw=true "Home Scren")
+<img src="https://raw.githubusercontent.com/Aditya2704/AceWeather/master/assets/screenshots/1.jpg" width="170" />
+<img src="https://raw.githubusercontent.com/Aditya2704/AceWeather/master/assets/screenshots/2.jpg" width="170" />
 
 
 ## Pre-requisites
